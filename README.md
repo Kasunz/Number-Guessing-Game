@@ -11,3 +11,6 @@ The Number Guessing Game is a simple Python-based project where the player has t
 ## Acknowledgments
 
 - This project was inspired by the tutorial on [GeeksforGeeks](https://www.geeksforgeeks.org/number-guessing-game-in-python/).
+
+## License
+This project is for educational purposes and does not come with any specific license.
